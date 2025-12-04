@@ -8,4 +8,10 @@ Thank you BroCode!!
 https://jamesb0415.github.io/Circumference-of-a-Circle-Tool/
 
 ### Features
+* All you need is your radius of the circle and you can get the circumference!
+
+## Future Plans
+I want this project to be a "work" in progress for my git repository. I will be adding diffrent uploads at differnt times and differnt versions. 
+The next update will be mostly for graphical deisigning as the main build rn only has HTML code in it.
+
 
