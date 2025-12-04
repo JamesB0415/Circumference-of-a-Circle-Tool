@@ -12,6 +12,10 @@ https://jamesb0415.github.io/Circumference-of-a-Circle-Tool/
 
 ## Future Plans
 I want this project to be a "work" in progress for my git repository. I will be adding diffrent uploads at differnt times and differnt versions. 
-The next update will be mostly for graphical deisigning as the main build rn only has HTML code in it.
+The next update will be mostly for graphical deisigning as the main build right now only has HTML code in it.
+
+* Graghical Lift
+* More math function
+  * Current Build onyly used the radius to find the circumference. I hope to add a feature for if users only have the diameter.   
 
 
