@@ -10,11 +10,12 @@ https://jamesb0415.github.io/Circumference-of-a-Circle-Tool/
 ## How the Tool Works
 The circumfernce tool is used mainly to... well get the curcumference of a circle.
 
-In math there is a couple formulas used to get the circumfernce.
+In math there is a couple formulas used to get the circumference.
 
-C=PI2Radius
-C=PI*D
-D is for Diameter
+* C=PI2Radius
+* C=PI*D
+  * D is for Diameter
+  * 
 This Tool currently uses the first equation. Later builds I will add the section equation for users how may only have the diameter
 
 ### Features
