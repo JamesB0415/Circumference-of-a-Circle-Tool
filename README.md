@@ -15,7 +15,7 @@ In math there is a couple formulas used to get the circumference.
 * C=PI2Radius
 * C=PI*D
   * D is for Diameter
-  * 
+  
 This Tool currently uses the first equation. Later builds I will add the section equation for users how may only have the diameter
 
 ### Features
